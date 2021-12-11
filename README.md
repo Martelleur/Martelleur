@@ -2,7 +2,8 @@
 
   - _"Perfect is the enemy of the good." - Voltaire_
   - _"Try not become a man of success. Rater become a man of value." - Albert Einstein_
-  - _"The devil is in the details"_
+  - _"It's hard to live your life in color, and tell the truth in black and white." - Gregg Allman_
+  - _"The devil is in the details."_
 
 - 👀 I’m interested in Web Development, DevOps, DevSecOps, CI/CD 
 
