@@ -10,10 +10,6 @@
 
 - __Something to read__
   - _"The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency."_ - Bill Gates
-  - _"Perfect is the enemy of the good." - Voltaire_
-  - _"Try not become a man of success. Rater become a man of value." - Albert Einstein_
-  - _"It's hard to live your life in color, and tell the truth in black and white." - Gregg Allman_
-  - _"The devil is in the details."_
 
 <!---
 Martelleur/Martelleur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
