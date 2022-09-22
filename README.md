@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Joel Martelleur, I am a previous tennis coach from Sweden who is now trying my best to become a Software Developer
 
-- 👀 I’m interested in Web Development, DevOps, DevSecOps, CI/CD 
+- 👀 I’m interested in Web development, Mobile app development, DevOps, and Continuous Delivery 
 
-- 🌱 I’m currently seraching for work in Web development and Mobile app development. 
+- 🌱 I’m currently seraching for a job in Web development and Mobile app development. 
 
-- 💞️ I’m looking to collaborate on Web Development, Mobile app development, and try to help people with everyday problems.    
+- 💞️ I’m looking to collaborate on Web development, Mobile app development, and try to help people with everyday problems.    
 
 - 📫 How to reach me: joel.martelleur@gmail.com
 
