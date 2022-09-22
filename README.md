@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Web Development, DevOps, DevSecOps, CI/CD 
 
-- 🌱 I’m currently seraching for work in web development / mobile app development. 
+- 🌱 I’m currently seraching for work in Web development and Mobile app development. 
 
 - 💞️ I’m looking to collaborate on Web Development, Mobile app development, and try to help people with everyday problems.    
 
