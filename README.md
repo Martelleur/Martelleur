@@ -2,11 +2,11 @@
 
 - 👀 I’m interested in Web Development, DevOps, DevSecOps, CI/CD 
 
-- 🌱 I’m currently a stdudent at Linnaeus University in Sweden 
+- 🌱 I’m currently seraching for work in web development / mobile app development. 
 
-- 💞️ I’m looking to collaborate on Web Development and Mobile app development to help people with everyday / workday problems.    
+- 💞️ I’m looking to collaborate on Web Development, Mobile app development, and try to help people with everyday problems.    
 
-- 📫 How to reach me ...
+- 📫 How to reach me: joel.martelleur@gmail.com
 
 - __Something to read__
   - _"The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency."_ - Bill Gates
