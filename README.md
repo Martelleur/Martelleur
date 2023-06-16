@@ -8,8 +8,7 @@
 
 - 📫 How to reach me: joel.martelleur@gmail.com
 
-- __Something to read__
-  - _"The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency."_ - Bill Gates
+- &#128221; _"The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency."_ - Bill Gates
 
 <!---
 Martelleur/Martelleur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
