@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Joel Martelleur, I am a previous tennis coach from Sweden who is now trying my best to become a Software Developer
+- 👋 Hi, I am a newly graduated software developer with knowledge in software development, web development,  and Continuous Delivery. My current goal is to find a job that offers challenges and opportunities in software development, web development or DevOps.
 
-- 👀 I’m interested in Web development, Mobile app development, DevOps, and Continuous Delivery 
+- 👀 I’m interested in Web development, Mobile app development, DevOps, and Continuous Delivery. 
 
-- 🌱 I’m currently seraching for a job in Web development and Mobile app development. 
+- 🌱 I’m currently searching for a job in Web development, Mobile app development, and DevOps. 
 
 - 💞️ I’m looking to collaborate on Web development, Mobile app development, and try to help people with everyday problems.    
 
