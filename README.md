@@ -1,4 +1,4 @@
-- 👋 Hi, I am a newly graduated software developer with knowledge in software development, web development,  and Continuous Delivery. My current goal is to find a job that offers challenges and opportunities in software development, web development or DevOps.
+- 👋 Hi, I am a newly graduated software developer with knowledge in web development, mobile app development, and continuous delivery. My current goal is to find a job that offers challenges and opportunities in web development, mobile app development, or DevOps.
 
 - 👀 I’m interested in Web development, Mobile app development, DevOps, and Continuous Delivery. 
 
