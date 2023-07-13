@@ -6,6 +6,10 @@
 
 - 💞️ I’m looking to collaborate on Web development, Mobile app development, and try to help people with everyday problems.    
 
+- &#127968; Website: [https://martelleur.online](https://martelleur.online)
+  
+- &#127968; A simple chat: [https://chat.martelleur.shop](https://chat.martelleur.shop)
+
 - 📫 How to reach me: joel.martelleur@gmail.com
 
 - &#128221; _"The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency."_ - Bill Gates
