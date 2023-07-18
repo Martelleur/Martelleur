@@ -1,10 +1,10 @@
-- 👋 Hi, I am a newly graduated software developer with knowledge in web development, mobile app development, and continuous delivery. My current goal is to find a job that offers challenges and opportunities in web development, mobile app development, or DevOps.
+- 👋 Hi, I am a newly graduated software developer with knowledge in web development, mobile app development, and continuous delivery. My current goal is to find a job that offers challenges and opportunities in software development, web development, mobile app development, or DevOps.
 
-- 👀 I’m interested in Web development, Mobile app development, DevOps, and Continuous Delivery. 
+- 👀 I’m interested in Software development, Web development, Mobile app development, DevOps, and Continuous Delivery. 
 
-- 🌱 I’m currently searching for a job in Web development, Mobile app development, and DevOps. 
+- 🌱 I’m currently searching for a job in Software development, Web development, Mobile app development, and DevOps. 
 
-- 💞️ I’m looking to collaborate on Web development, Mobile app development, and try to help people with everyday problems.    
+- 💞️ I’m looking to collaborate on Software development, Web development, and Mobile app development, and try to help people with everyday problems.    
 
 - &#127968; Website: [https://martelleur.online](https://martelleur.online)
   
