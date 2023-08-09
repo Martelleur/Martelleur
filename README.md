@@ -12,7 +12,7 @@
 
 - &#127968; Website: [https://martelleur.online](https://martelleur.online)
   
-- &#127968; A simple chat: [https://chat.martelleur.shop](https://chat.martelleur.shop)
+- &#127968; A simple chat called MyChat: [https://chat.martelleur.shop](https://chat.martelleur.shop)
 
 - 📫 How to reach me: joel.martelleur@gmail.com
 
