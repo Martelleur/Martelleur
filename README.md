@@ -1,8 +1,6 @@
-- 👋 Hi, I am a newly graduated software developer with knowledge in web development, mobile app development, and continuous delivery / DevOps.
+- 👋 Hi, I am a newly graduated software developer with web development, mobile app development, and continuous delivery knowledge. 
 
-- 👀 I’m interested in Software development, Web development, Mobile app development, DevOps, and Continuous Delivery. 
-
-- 🌱 I’m currently searching for a job in Software development, Web development, Mobile app development, and DevOps. 
+- 🌱 I’m currently searching for a job in DevOps, Web development, and Mobile app development. 
 
 - &#127968; Public repositories:
   - [https://gitlab.com/martelleur-public/martelleur.online](https://gitlab.com/martelleur-public/martelleur.online)
