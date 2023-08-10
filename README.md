@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently searching for a job in Software development, Web development, Mobile app development, and DevOps. 
 
-- 💞️ I’m looking to collaborate in DevOps, Web, and Mobile app development.
-
 - &#127968; Public repositories:
   - [https://gitlab.com/martelleur-public/martelleur.online](https://gitlab.com/martelleur-public/martelleur.online)
   - [https://gitlab.com/martelleur-public/android-java](https://gitlab.com/martelleur-public/android-java)
