@@ -6,9 +6,9 @@
   - [https://gitlab.com/martelleur-public/martelleur.online](https://gitlab.com/martelleur-public/martelleur.online)
   - [https://gitlab.com/martelleur-public/android-java](https://gitlab.com/martelleur-public/android-java)
 
-- &#127968; Website: [https://martelleur.online](https://martelleur.online)
+<!-- - &#127968; Website: [https://martelleur.online](https://martelleur.online)
   
-- &#127968; A simple chat called MyChat: [https://chat.martelleur.shop](https://chat.martelleur.shop)
+- &#127968; A simple chat called MyChat: [https://chat.martelleur.shop](https://chat.martelleur.shop) -->
 
 - 📫 How to reach me: joel.martelleur@gmail.com
 
