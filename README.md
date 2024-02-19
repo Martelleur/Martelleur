@@ -4,7 +4,7 @@
 
 - &#127968; Public repositories:
   - [martelleur.online](https://gitlab.com/martelleur-public/martelleur.online)
-  - [WebCraft](https://gitlab.com/martelleur-public/martelleur.online/-/blob/main/lib/doc/todo/project-webcraft-library.md#project-webcraft-library)
+  - [Library WebCraft](https://gitlab.com/martelleur-public/martelleur.online/-/blob/main/lib/doc/todo/project-webcraft-library.md#project-webcraft-library)
   - [Android Java Prototypes](https://gitlab.com/martelleur-public/android-java)
 
 - &#127968; Website: [https://martelleur.online](https://martelleur.online)
