@@ -1,6 +1,6 @@
-- 👋 Hi, I am a newly graduated software developer with web development, mobile app development, and continuous delivery knowledge. 
-
-- 🌱 I’m currently searching for a job in DevOps, Web development, and Mobile app development. 
+- 👋 Hi, I'm a newly graduated software developer with web development and CI/CD knowledge and experience.
+  
+- 🌱 I'm currently looking for a job in the areas of DevOps and web development. 
 
 - &#127968; Public repositories:
   - [martelleur.online](https://gitlab.com/martelleur-public/martelleur.online)
