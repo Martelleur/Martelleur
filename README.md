@@ -8,10 +8,11 @@
   - [Android Java Prototypes](https://gitlab.com/martelleur-public/android-java)
 
 - &#127968; Website: [https://martelleur.online](https://martelleur.online)
-  
-- &#127968; A simple chat called MyChat: [https://chat.martelleur.shop](https://chat.martelleur.shop) -->
 
-- 📫 How to reach me: joel.martelleur@gmail.com
+- 📫 How to reach me:
+  - joel.martelleur@gmail.com
+  - joel.martelleur@martelleur.online
+  - [https://chat.martelleur.online](https://chat.martelleur.online)
 
 - &#128221; _"The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency."_ - Bill Gates
 
