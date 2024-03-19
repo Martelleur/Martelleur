@@ -1,6 +1,6 @@
-- 👋 Hi, I'm a newly graduated software developer with web development and CI/CD knowledge and experience.
+👋 Hi, I'm a newly graduated software developer with knowledge and experience in software development, web development, and CI/CD.
   
-- 🌱 I'm currently looking for a job in the areas of DevOps and web development. 
+🌱 I'm currently looking for a job in system development, DevOps, or web development. 
 
 - &#127968; Public repositories:
   - [martelleur.online](https://gitlab.com/martelleur-public/martelleur.online)
