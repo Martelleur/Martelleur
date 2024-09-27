@@ -13,6 +13,7 @@
   - joel.martelleur@gmail.com
   - joel.martelleur@martelleur.online
   - [https://chat.martelleur.online](https://chat.martelleur.online)
+  - [LinkedIn profile](https://www.linkedin.com/in/joel-martelleur-1946b9245/?trk=opento_sprofile_details)
 
 - &#128221; _"The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency."_ - Bill Gates
 
